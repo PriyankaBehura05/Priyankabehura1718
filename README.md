@@ -94,6 +94,4 @@ Sambalpur University Institute of Information Technology
 
 ## Leetcode 
 -![Leetcode Stats](https://leetcard.jacoblin.cool/VvIaavWc0D)
-[![HackerRank]([![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your_username)
-)](https://www.hackerrank.com/profile/priyankabehura51)
 
