@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Priyanka Behura
 ![](https://komarev.com/ghpvc/?username=priyankabehura)
 
-🎓 B.Tech Computer Science & Engineering (Cybersecurity)  
-🔐 Cybersecurity | Malware Analysis | Full-Stack Development (Mern)
+🎓 B.Tech Computer Science & Engineering   
+Full-Stack Developer
 📍 Odisha, India  
 
 [![Email](https://img.shields.io/badge/Email-priyankabehura584%40gmail.com-red)](mailto:priyankabehura584@gmail.com)
@@ -13,19 +13,18 @@
 
 ## 🧠 Profile
 
-Cybersecurity enthusiast and Computer Science undergraduate with hands-on experience in **penetration testing, malware analysis, and full-stack development**. Skilled in identifying security vulnerabilities, analyzing threats, and building secure, data-driven web applications. Actively learning and applying cybersecurity and software engineering principles through internships, projects, and open-source contributions.
-
+Aspiring Full-Stack Developer with a strong foundation in Data Structures & Algorithms and MERN stack technologies. Skilled in building responsive and scalable web applications while emphasizing clean code, performance, and security best practices.
 ---
 
 ## 💼 Experience
 
-### Cybersecurity Intern – NIT Rourkela, Odisha  
+### Reaserch Intern – NIT Rourkela, Odisha  
 **Jun 2025 – Jul 2025**
-- Conducted malware analysis and vulnerability assessment  
-- Assisted in intrusion detection research  
-- Performed penetration testing and documented security findings  
+-Developed and tested data-driven applications using Python and web technologies
+-Assisted in building secure systems with focus on vulnerability mitigation
+-Worked on malware analysis and secure coding practices
 
-### Cybersecurity Intern – Teachnook (Remote)  
+### Intern – Teachnook (Remote)  
 **May 2024 – Jun 2024**
 - Executed penetration testing using Nmap, Metasploit, Burp Suite, and Wireshark  
 - Prepared SIEM/SOAR-based security analysis reports  
@@ -46,11 +45,6 @@ Cybersecurity enthusiast and Computer Science undergraduate with hands-on experi
 - Integrated Google Gemini API for explainable AI-based predictions  
 - Developed a React + Vite dashboard for real-time malware analysis and visualization  
 
-### 🔎 Automated SQL Injection Detection  
-**Python, SQLmap**
-- Automated OWASP-based SQL injection payload generation  
-- Supported multiple database types for vulnerability detection  
-
 ### 🕵️ PII Reduction Tool  
 **Python, OpenCV**
 - Automated detection and redaction of personally identifiable information  
@@ -59,15 +53,11 @@ Cybersecurity enthusiast and Computer Science undergraduate with hands-on experi
 ---
 
 ## 🛠️ Skills
-
-**Cybersecurity:**  
-Penetration Testing, Malware Analysis, Vulnerability Assessment, SIEM/SOAR Concepts  
-
 **Programming Languages:**  
 Python, C, C++, JavaScript, SQL  
 
 **Web & Full-Stack Development:**  
-HTML, CSS, React.js, Node.js, Express.js (MERN Stack)  
+HTML, CSS, React.js, Node.js,Rest API  
 
 **Tools & Platforms:**  
 Burp Suite, Metasploit, Nmap, Wireshark, Git, Linux  
@@ -79,7 +69,7 @@ OOP, Data Structures, DBMS, Operating Systems
 
 ## 🎓 Education
 
-**B.Tech in Computer Science & Engineering (Cybersecurity)**  
+**B.Tech in Computer Science & Engineering **  
 Sambalpur University Institute of Information Technology  
 2022 – 2026 (Expected)
 
@@ -96,7 +86,7 @@ Sambalpur University Institute of Information Technology
 
 ## 🏆 Achievements
 
-- Cybersecurity Intern at **NIT Rourkela**  
+- Reasearch Intern at **NIT Rourkela**  
 - **Hacktoberfest** Open-Source Contributor  
 - Active CTF participant on **TryHackMe** 
 
@@ -104,3 +94,6 @@ Sambalpur University Institute of Information Technology
 
 ## Leetcode 
 -![Leetcode Stats](https://leetcard.jacoblin.cool/VvIaavWc0D)
+[![HackerRank]([![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your_username)
+)](https://www.hackerrank.com/profile/priyankabehura51)
+
