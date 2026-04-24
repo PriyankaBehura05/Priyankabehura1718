@@ -4,6 +4,7 @@
 
 **Full-Stack Developer | React • Django • APIs • AI Integration**
  B.Tech Computer Science & Engineering (2022–2026)
+ 
 📍 Odisha, India
 
 [![Email](https://img.shields.io/badge/Email-priyankabehura584%40gmail.com-red)](mailto:priyankabehura584@gmail.com)
