@@ -34,14 +34,6 @@ Jun 2025 – Jul 2025
 * Collaborated on debugging and optimizing UI for **consistent design across pages**
 * Designed and implemented an **end-to-end web-based dashboard** for real-time data visualization
 
----
-### Intern — Teachnook (Remote)
- May 2024 – Jun 2024
-
-* Contributed to building **web applications and REST APIs**
-* Developed **responsive UI components** with focus on usability and performance
-* Maintained **consistent design systems** across multiple pages
-* Followed **modern web development best practices** in project workflows
 
 ---
 
